@@ -1,0 +1,10 @@
+[packages]
+requests = "*"
+flask = "*"
+pandas = "*"
+numpy = "*"
+python-dotenv = "*"
+
+[dev-packages]
+black = "*"
+pytest = "*"
