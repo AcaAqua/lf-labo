@@ -1,0 +1,14 @@
+# 基本ツール
+requests
+python-dotenv
+
+# データ処理系
+pandas
+numpy
+
+# Web/試作用
+flask
+
+# 開発補助
+black
+pytest
